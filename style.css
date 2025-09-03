@@ -519,6 +519,23 @@ img, video, canvas { max-width: 100%; height: auto; display: block; }
 
 :target { scroll-margin-top: 80px; }
 
+#about .details-container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+#about .details-container .icon{
+  display: block;
+  margin-inline: auto;
+}
+
+#about .about-containers{
+  justify-items: center;
+}
+
+
 
 
 
