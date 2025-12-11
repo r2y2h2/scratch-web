@@ -520,7 +520,7 @@ img, video, canvas { max-width: 100%; height: auto; display: block; }
 :target { scroll-margin-top: 80px; }
 
 #about .details-container{
-  display: flex;
+  display: center;
   flex-direction: column;
   align-items: center;
   text-align: center;
